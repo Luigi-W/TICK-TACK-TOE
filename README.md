@@ -1,4 +1,4 @@
-# TICK-TACK-TOE
+# TICK-TACK-TOE ❎0️⃣❎0️⃣
 
 This will forever be a piece of code I'm proud of above many others. My first working game... 
 I remember showing it to my family and friends with a big smile and often receiving looks of confusion as it runs directly from the terminal.
